@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://10.0.100.200:4000/about-the-author</loc>
+<loc>http://10.0.100.200:4000/journal/2013/04/04/about-the-author/</loc>
 <lastmod>2013-04-04T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://10.0.100.200:4000/learning-resources</loc>
+<loc>http://10.0.100.200:4000/journal/2013/10/10/learning-resources/</loc>
 <lastmod>2013-10-10T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://10.0.100.200:4000/text-formatting-examples</loc>
+<loc>http://10.0.100.200:4000/journal/2014/01/01/text-formatting-examples/</loc>
 <lastmod>2014-01-01T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://10.0.100.200:4000/getting-started</loc>
+<loc>http://10.0.100.200:4000/journal/2015/10/10/getting-started/</loc>
 <lastmod>2015-10-10T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://10.0.100.200:4000/welcome-to-lagrange</loc>
+<loc>http://10.0.100.200:4000/journal/2016/01/01/welcome-to-lagrange/</loc>
 <lastmod>2016-01-01T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://10.0.100.200:4000/about-luis</loc>
+<loc>http://10.0.100.200:4000/alumno/2023/11/07/about-luis/</loc>
 <lastmod>2023-11-07T00:00:00+01:00</lastmod>
 </url>
 <url>
